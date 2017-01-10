@@ -49,5 +49,4 @@ Example:
 	- ` y(:, end) ` returns all the elements present in 6th column
 	- ` y(end, :) ` returns all the elements present in 3rd row
 
----
 
