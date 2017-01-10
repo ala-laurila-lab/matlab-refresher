@@ -1,3 +1,11 @@
-# My Awesome Book
+## Matlab Refresher
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+MATrix LABoratory is usefull tool for matrix manipulation, data visualization, etc
+
+### Objectives
+
+- Define scalar, vector, and matrix.
+- Call and use a function in MATLAB.
+- Data visualization
+- Design for loops, while loops, and if-else statements to solve a problem.
+- Identify and correct errors in MATLAB code.
